@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image": "./quality_food.svg",
+          "title": "QUALITY FOOD",
+          "description": "Every dish is crafted with handpicked, fresh ingredients, ensuring not just hygiene but a burst of authentic flavors in every bite."
+        },
+        {
+          "id": 2,
+          "image": "./super_taste.svg",
+          "title": "SUPER TASTE",
+          "description": "Our menu blends traditional recipes with modern twists, delivering a taste that’s comforting yet unforgettable food that speaks to your soul."
+        },
+        {
+          "id": 3,
+          "image": "./fast_delivery.svg",
+          "title": "FAST DELIVERY",
+          "description": "We value your time. With a well-coordinated kitchen-to-door system, your order reaches you piping hot and faster than you’d expect."
+        }
+      ],
+      "dishes": [
+        {
+          "id": 1,
+          "image": "./dinner1.jpeg",
+          "title": "ROASTED LAMB RUMP",
+          "category": "Dinner"
+        },
+        {
+          "id": 2,
+          "image": "./dinner2.png",
+          "title": "CITRUS CURED SALMON",
+          "category": "Dinner"
+        },
+        {
+          "id": 3,
+          "image": "./breakfast1.png",
+          "title": "PAN SEARED SEA BASS",
+          "category": "Breakfast"
+        },
+        {
+          "id": 4,
+          "image": "./dinner3.png",
+          "title": "STUFFED STRAWBERRY",
+          "category": "Dinner"
+        },
+        {
+          "id": 5,
+          "image": "./lunch1.png",
+          "title": "BEEF BURGER MEAL",
+          "category": "Lunch"
+        },
+        {
+          "id": 6,
+          "image": "./dinner4.png",
+          "title": "MUSSELS SOUP",
+          "category": "Dinner"
+        },
+        {
+          "id": 7,
+          "image": "./dinner5.png",
+          "title": "ITALIAN SPAGHETTI",
+          "category": "Dinner"
+        },
+        {
+          "id": 8,
+          "image": "./dinner6.png",
+          "title": "GRILLED FISH",
+          "category": "Dinner"
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "image": "./team_member_1.jpeg",
+          "name": "Deva Kumar",
+          "designation": "Founder & Head Chef"
+        },
+        {
+          "id": 2,
+          "image": "./team_member_2.jpeg",
+          "name": "Koushik",
+          "designation": "Sous Chef"
+        },
+        {
+          "id": 3,
+          "image": "./team_member_3.jpeg",
+          "name": "Surya Narayana",
+          "designation": "Fast Food Chef"
+        },
+        {
+          "id": 4,
+          "image": "./team_member_4.jpg",
+          "name": "Garima Arora",
+          "designation": "Senior Chef"
+        }
+      ],
+
+      "who_we_are": [
+        {
+          "id": 1,
+          "number": "14",
+          "title": "Restaurants"
+        },
+        {
+          "id": 2,
+          "number": "20",
+          "title": "Chef In Kitchen"
+        },
+        {
+          "id": 3,
+          "number": "08",
+          "title": "Years Of Experience"
+        },
+        {
+          "id": 4,
+          "number": "200",
+          "title": "Food Dishes"
+        }
+      ],
+      "navbarLinks": [
+        {
+          "id": 1,
+          "title": "HOME",
+          "link": "heroSection"
+        },
+        {
+          "id": 2,
+          "title": "ABOUT US",
+          "link": "about"
+        },
+        {
+          "id": 3,
+          "title": "SERVICES",
+          "link": "qualities"
+        },
+        {
+          "id": 4,
+          "title": "TEAM",
+          "link": "team"
+        },
+        {
+          "id": 5,
+          "title": "RESERVATION",
+          "link": "reservation"
+        }
+      ]
+    }
+  ]
+}
